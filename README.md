@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/screenshot.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://github.com/Abuu998/fylo-dark](https://github.com/Abuu998/fylo-dark?tab=readme-ov-file#overview)
+-   Live Site URL: [https://site-fylo-dark.netlify.app/](https://site-fylo-dark.netlify.app/)
 
 ## My process
 
@@ -49,7 +49,11 @@ Users should be able to:
 
 ### What I learned
 
-As someone who try to make my app perfect - if there is such thing as perfect :-D - , i am pretty happy how it tourned out expecialy the **"Get Early Access"** section of the bottom. I liked the experience i gained while searching and trying to make it work.
+As someone who try to make my app perfect - if there is such thing as perfect :-D - , i am pretty happy how it tourned out expecialy the **"Get Early Access"** section of the bottom.
+
+![](./public/bottom_screenshot.png)
+
+I liked the experience i gained while searching and trying to make it work.
 
 I made it with Typescript because i feel like i want to use it in all my projects. and making challenges like these make me learn more.
 
